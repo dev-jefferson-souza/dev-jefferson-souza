@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bad7k
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning JavaScript, HTML and CSS, but I pretend to be a Fullstack developer, and start developing mobile apps.
-- 📫 If you want to talk to me, you send me a dm on Instagram @bad7k_ and I'll answer ASAP.
+- 📫 If you want to talk to me, you can send me a dm on Instagram @bad7k_ and I'll answer ASAP.
 
 You're welcome. Enjoy!
 
