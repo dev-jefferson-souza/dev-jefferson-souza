@@ -4,7 +4,8 @@
 - 📫 If you want to talk to me, you can send me a dm on Instagram @bad7k_ and I'll answer ASAP.
 
 - 💻 This is my personal portfolio: 
-https://bad7k.github.io/Portfolio/
+https://bad7k.github.io/Portfolio/.
+
 You're welcome. Enjoy!
 
 <!---
