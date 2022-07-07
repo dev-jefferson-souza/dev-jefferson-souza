@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JavaScript, HTML and CSS, but I pretend to be a Fullstack developer, and start developing mobile apps.
 - 📫 If you want to talk to me, you can send me a dm on Instagram @bad7k_ and I'll answer ASAP.
 
+- 💻 This is my personal portfolio: 
+https://bad7k.github.io/Portfolio/
 You're welcome. Enjoy!
 
 <!---
