@@ -75,11 +75,11 @@
 
 <div align="center" width="100%">
   
-<a href="https://github.com/Martins2812/ToDoList-APP">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Martins2812&repo=ToDoList-APP&bg_color=0,45A3D1,45A3D1,4dfcff&theme=graywhite" loading="lazy"/>
+<a href="https://github.com/dev-jefferson-souza/Todo-App---React">
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-jefferson-souza&repo=Todo-App---React&bg_color=0,45A3D1,45A3D1,4dfcff&theme=graywhite" loading="lazy"/>
 </a>  
 
-<a href="https://github.com/Martins2812/E-CommerceProjetoFinalAPI">
+<a href="https://github.com/dev-jefferson-souza/Twitch-Clone-React-Native">
   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Martins2812&repo=E-CommerceProjetoFinalAPI&bg_color=0,45A3D1,4dfcff,3B93E6&theme=graywhite" loading="lazy"/>
 </a>
 
