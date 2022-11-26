@@ -80,7 +80,7 @@
 </a>  
 
 <a href="https://github.com/dev-jefferson-souza/Twitch-Clone-React-Native">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Martins2812&repo=E-CommerceProjetoFinalAPI&bg_color=0,45A3D1,4dfcff,3B93E6&theme=graywhite" loading="lazy"/>
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-jefferson-souza&repo=Twitch-Clone-React-Native&bg_color=0,45A3D1,4dfcff,3B93E6&theme=graywhite" loading="lazy"/>
 </a>
 
  
