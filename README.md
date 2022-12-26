@@ -8,7 +8,7 @@
       🌎 I live in <strong>Petrópolis - RJ</strong>
      </h1>
      <h2>
-      👨‍🎓 I'm currently studying and developing in <strong>Full Stack</strong> | <a href="https://serratec.org">Serratec</a> 
+      👨‍🎓 I'm part of the <a href="https://serratec.org">Serratec</a> Dev community 
      </h2>
    </ul>
  </div>
@@ -16,7 +16,7 @@
  </br>
  
 <div align="center">
-<img height="500em"  src="https://lh3.googleusercontent.com/vUtNCNDs2d5zqYm2aXchY16I3b41YIhppp9DuQHcI8UjIYBT5DAl7hQoS3PAYT7dhOQ_OLl9ooRfFwFNF9EDapE3W2_jYUc443a-7Q"
+<iframe src="https://giphy.com/embed/5Zesu5VPNGJlm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5Zesu5VPNGJlm"></a></p>
 </div>
   
 </br>
@@ -69,18 +69,3 @@
   
 </div>
 
-<div align="center">
-<h2>My repositories:</h2>
-</div>
-
-<div align="center" width="100%">
-  
-<a href="https://github.com/dev-jefferson-souza/Todo-App---React">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-jefferson-souza&repo=Todo-App---React&bg_color=0,45A3D1,45A3D1,4dfcff&theme=graywhite" loading="lazy"/>
-</a>  
-
-<a href="https://github.com/dev-jefferson-souza/Twitch-Clone-React-Native">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-jefferson-souza&repo=Twitch-Clone-React-Native&bg_color=0,45A3D1,4dfcff,3B93E6&theme=graywhite" loading="lazy"/>
-</a>
-
- 
