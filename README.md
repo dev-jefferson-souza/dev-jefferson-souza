@@ -6,10 +6,11 @@
    <div>
      <h1>
       🌎 I live in <strong>Petrópolis - RJ</strong>
+       </br>
+       <h2>
+        👨‍🎓 I'm part of the <a href="https://serratec.org">Serratec</a> Dev community 
+       </h2>
      </h1>
-     <h2>
-      👨‍🎓 I'm part of the <a href="https://serratec.org">Serratec</a> Dev community 
-     </h2>
    </div>
  </div>
  
