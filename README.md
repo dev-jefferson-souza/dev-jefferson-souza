@@ -3,14 +3,14 @@
 </p>
 
 <div align="center"> 
-   <ul>
+
      <h1>
       🌎 I live in <strong>Petrópolis - RJ</strong>
      </h1>
      <h2>
       👨‍🎓 I'm part of the <a href="https://serratec.org">Serratec</a> Dev community 
      </h2>
-   </ul>
+ 
  </div>
  
 </br>
